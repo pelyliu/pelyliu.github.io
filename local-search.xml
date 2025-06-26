@@ -5,12 +5,26 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="/2025/06/25/test/"/>
-    <url>/2025/06/25/test/</url>
+    <link href="/2025/06/26/test/"/>
+    <url>/2025/06/26/test/</url>
     
     <content type="html"><![CDATA[<p>测试文章</p>]]></content>
     
     
+    <categories>
+      
+      <category>测试</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+      <tag>Test</tag>
+      
+    </tags>
     
   </entry>
   
